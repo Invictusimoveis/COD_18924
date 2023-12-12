@@ -1,0 +1,51 @@
+#: locale=pt
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_500ED39F_5E09_7551_41D6_A050B0BECE0F.toolTip = Elevador privativo
+HotspotPanoramaOverlayArea_16DA0B92_5E39_9533_4198_7E7FBEA48164.toolTip = Lazer 
+
+## Media
+
+### Title
+panorama_54C19BA0_5E0A_956F_41D3_A35E1C0CCD66.label = 1
+panorama_54C1B314_5E0A_F557_41CF_123BC3F16A70.label = 10
+panorama_54C117D7_5E0A_FCD2_41BD_7C47FB56E48F.label = 11
+panorama_54C1AC75_5E0A_F3D6_41D1_D9B30A84FA9E.label = 12
+panorama_54C13103_5E0A_9531_41BF_4CFDDB5A2A88.label = 13
+panorama_54C1F649_5E0A_9F31_41CD_E60BBC909CAF.label = 14
+panorama_52457C9D_5E0A_9351_41C3_A6DF96C584DB.label = 2
+panorama_54D2734E_5E0A_B533_41D5_58D0795971B7.label = 3
+panorama_54C1C7BC_5E0A_BD57_41BE_90607C5287D7.label = 4
+panorama_54C64C3B_5E0A_B351_41D5_619A8F60416D.label = 5
+panorama_54C1A11D_5E0A_9556_41B2_C33794A2BBEB.label = 6
+panorama_54C11578_5E0A_9DDF_41C6_65F5A68EB9FB.label = 7
+panorama_54C16EA7_5E0A_EF71_415C_4D91DB296703.label = 9
+album_04AE4E81_5E3A_EF0C_41AE_4E4EFCF0BD56_14.label = Academia
+album_04AE4E81_5E3A_EF0C_41AE_4E4EFCF0BD56_13.label = Academia
+album_04AE4E81_5E3A_EF0C_41AE_4E4EFCF0BD56.label = Lazer completo!
+album_04AE4E81_5E3A_EF0C_41AE_4E4EFCF0BD56_15.label = Office
+album_04AE4E81_5E3A_EF0C_41AE_4E4EFCF0BD56_16.label = Pet parque
+album_04AE4E81_5E3A_EF0C_41AE_4E4EFCF0BD56_0.label = Piscina
+album_04AE4E81_5E3A_EF0C_41AE_4E4EFCF0BD56_5.label = Piscina
+album_04AE4E81_5E3A_EF0C_41AE_4E4EFCF0BD56_9.label = Playground
+album_04AE4E81_5E3A_EF0C_41AE_4E4EFCF0BD56_12.label = Sala de jogos
+album_04AE4E81_5E3A_EF0C_41AE_4E4EFCF0BD56_2.label = Salão de beleza
+album_04AE4E81_5E3A_EF0C_41AE_4E4EFCF0BD56_1.label = Salão de beleza
+album_04AE4E81_5E3A_EF0C_41AE_4E4EFCF0BD56_8.label = Salão de festas
+album_04AE4E81_5E3A_EF0C_41AE_4E4EFCF0BD56_6.label = Salão de festas
+album_04AE4E81_5E3A_EF0C_41AE_4E4EFCF0BD56_7.label = Salão de festas
+album_04AE4E81_5E3A_EF0C_41AE_4E4EFCF0BD56_10.label = Área externa
+album_04AE4E81_5E3A_EF0C_41AE_4E4EFCF0BD56_11.label = Área externa
+album_04AE4E81_5E3A_EF0C_41AE_4E4EFCF0BD56_17.label = Área gourmet
+album_04AE4E81_5E3A_EF0C_41AE_4E4EFCF0BD56_18.label = Área gourmet
+album_04AE4E81_5E3A_EF0C_41AE_4E4EFCF0BD56_19.label = Área gourmet
+album_04AE4E81_5E3A_EF0C_41AE_4E4EFCF0BD56_3.label = Área gourmet
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Padre Vieira_Epic Patriani_18924 
